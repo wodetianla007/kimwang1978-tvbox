@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "csp_DouBan",
-            "name": "🔍豆瓣┃本接口免费-🈲贩卖",
+            "name": "🔍豆瓣┃",
             "type": 3,
             "api": "csp_DouBan",
             "searchable": 0,
