@@ -1,0 +1,45 @@
+{ "urls": [
+    
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/饭太硬/api.json", "name": "饭太硬" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/小米/api.json", "name": "小米" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/肥猫/api.json", "name": "肥猫" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/菜妮丝/api.json", "name": "菜妮丝" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/王二小/api.json", "name": "王二小" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/摸鱼儿/api.json", "name": "摸鱼儿" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/PG/api.json", "name": "PG" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/欧歌/api.json", "name": "欧歌" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/潇洒/api.json", "name": "潇洒" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/天微/api.json", "name": "天微" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/天天开心/api.json", "name": "天天开心" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/香雅情/api.json", "name": "香雅情" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/南风/api.json", "name": "南风" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/骚零/api.json", "name": "骚零" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/白嫖/api.json", "name": "白嫖" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/OK/api.json", "name": "OK" },
+
+    { "url": "https://play.iptv365.org/戏曲音乐/api.json", "name": "戏曲音乐" },
+
+    { "url": "https://play.iptv365.org/短剧频道/api.json", "name": "短剧频道" },
+
+    { "url": "https://play.iptv365.org/少儿频道/api.json", "name": "少儿频道" },
+
+    { "url": "https://play.iptv365.org/动漫频道/api.json", "name": "动漫频道" },
+
+    { "url": "https://play.iptv365.org/iptv365/api.json", "name": "iptv365直播" }
+    
+]}
