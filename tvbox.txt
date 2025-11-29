@@ -36,7 +36,7 @@
 
     { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/短剧频道/api.json", "name": "短剧频道" },
 
-    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/OK/api.json/少儿频道/api.json", "name": "少儿频道" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/少儿频道/api.json", "name": "少儿频道" },
 
     { "url": "别人的域名https://play.iptv365.org/动漫频道/api.json", "name": "动漫频道" },
 
