@@ -1,6 +1,6 @@
 { "urls": [
     
-    { "url": "https://play.iptv365.org/饭太硬/api.json", "name": "饭太硬" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/饭太硬/api.json", "name": "饭太硬" },
 
     { "url": "https://play.iptv365.org/小米/api.json", "name": "小米" },
 
