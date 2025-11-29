@@ -32,14 +32,14 @@
 
     { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/OK/api.json", "name": "OK" },
 
-    { "url": "https://play.iptv365.org/戏曲音乐/api.json", "name": "戏曲音乐" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/戏曲音乐/api.json", "name": "戏曲音乐" },
 
-    { "url": "https://play.iptv365.org/短剧频道/api.json", "name": "短剧频道" },
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/短剧频道/api.json", "name": "短剧频道" },
 
     { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wodetianla007/kimwang1978-tvbox/refs/heads/main/OK/api.json/少儿频道/api.json", "name": "少儿频道" },
 
-    { "url": "https://play.iptv365.org/动漫频道/api.json", "name": "动漫频道" },
+    { "url": "别人的域名https://play.iptv365.org/动漫频道/api.json", "name": "动漫频道" },
 
-   // { "url": "https://play.iptv365.org/iptv365/api.json", "name": "iptv365直播" }
+    { "url": "别人的域名https://play.iptv365.org/iptv365/api.json", "name": "iptv365直播" }
     
 ]}
